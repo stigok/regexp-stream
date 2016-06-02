@@ -8,7 +8,6 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "sinon": "^1.17.4",
     "split": "^1.0.0",
     "streamtest": "^1.2.2"
   },
